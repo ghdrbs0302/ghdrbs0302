@@ -1,12 +1,26 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=300&section=header&text=HongKyunKim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20&descAlignY=51&descAlign=70&fontColor=2E2E2E)
 
 <div align=center>
-### Tech Stack. 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-### Currently Stuyding & Interested In  
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+### Hi there👋  
+#### 문제를 파악하여, 비교적 더 효율적이고 효과적이게 목표 성취하는 것을 즐깁니다  
+ 
+ 
+ 
+## Tech Stack. 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/scikit learn-F7931E?style=flat-square&logo=scikit learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+
+
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6mini&count_bg=%23AAAAAA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://github.com/ghdrbs0302)
 </div>
  <!--
 **ghdrbs0302/ghdrbs0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
